@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3eca6ce-790f-40ee-8c90-58c1ff2be1eb" name="Default Changelist" comment="关于python基础篇的笔记">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-LOG日志.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.高级语法-包/模块的使用和定义.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/高级语法/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/ceshi.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/ceshi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/opp-基本概述和类的使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/opp-基本概述和类的使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/opp全面化概述.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/opp全面化概述.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/抽象类使用.html" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/抽象类使用.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/抽象类使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/抽象类使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/类成员描述符.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/类成员描述符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/类的三种方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/类的三种方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/类的内置属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/类的内置属性.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/类的常用函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/类的常用函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/类的常用魔法函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/类的常用魔法函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/自定义类实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.面向对象(oop)/自定义类实现.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.高级语法-包/异常处理/异常处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.高级语法-包/异常处理/异常处理.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,15 +14,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_note$.coverage" NAME="自定义类实现 Coverage Results" MODIFIED="1544184701072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.面向对象(oop)" />
+    <SUITE FILE_PATH="coverage/python_note$_zip.coverage" NAME="常用模块-zip压缩包 Coverage Results" MODIFIED="1544510241265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/常用模块" />
+    <SUITE FILE_PATH="coverage/python_note$_timeit.coverage" NAME="常用模块-timeit时间测量工具 Coverage Results" MODIFIED="1544334172855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/常用模块" />
+    <SUITE FILE_PATH="coverage/python_note$.coverage" NAME="文件 Coverage Results" MODIFIED="1545112681706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/文件操作" />
+    <SUITE FILE_PATH="coverage/python_note$_datetime.coverage" NAME="常用模块-datetime时间运算 Coverage Results" MODIFIED="1544337472514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/常用模块" />
     <SUITE FILE_PATH="coverage/python_note$ces02.coverage" NAME="ces02 Coverage Results" MODIFIED="1544185417941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包" />
     <SUITE FILE_PATH="coverage/python_note$a.coverage" NAME="a Coverage Results" MODIFIED="1544185079860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包" />
-    <SUITE FILE_PATH="coverage/python_book$07_2_4_.coverage" NAME="07-2-4 字典 Coverage Results" MODIFIED="1538307627229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.基础语法" />
-    <SUITE FILE_PATH="coverage/python_note$Unnamed.coverage" NAME="python-note Coverage Results" MODIFIED="1544185013940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/python_note$_time.coverage" NAME="常用模块-time时间 Coverage Results" MODIFIED="1544251403871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/常用模块" />
+    <SUITE FILE_PATH="coverage/python_note$seek.coverage" NAME="seek Coverage Results" MODIFIED="1545116200508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/文件操作" />
+    <SUITE FILE_PATH="coverage/python_note$shelve.coverage" NAME="shelve操作 Coverage Results" MODIFIED="1545118958049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/文件操作" />
     <SUITE FILE_PATH="coverage/python_book$07_2_3_.coverage" NAME="07-2-3 集合 Coverage Results" MODIFIED="1538303785510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.基础语法" />
     <SUITE FILE_PATH="coverage/python_book$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1539670159831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
-    <SUITE FILE_PATH="coverage/python_note$1.coverage" NAME="测试1 Coverage Results" MODIFIED="1544189787113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包" />
+    <SUITE FILE_PATH="coverage/python_note$_random.coverage" NAME="常用模块-random随机数 Coverage Results" MODIFIED="1544511125169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/常用模块" />
     <SUITE FILE_PATH="coverage/python_book$.coverage" NAME="自定义类实现 Coverage Results" MODIFIED="1539770565276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/python_note$_shutil.coverage" NAME="常用模块-shutil文件操作和压缩与归档 Coverage Results" MODIFIED="1544507382417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/常用模块" />
+    <SUITE FILE_PATH="coverage/python_note$with.coverage" NAME="with Coverage Results" MODIFIED="1545113753074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/文件操作" />
+    <SUITE FILE_PATH="coverage/python_book$07_2_4_.coverage" NAME="07-2-4 字典 Coverage Results" MODIFIED="1538307627229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.基础语法" />
+    <SUITE FILE_PATH="coverage/python_note$Unnamed.coverage" NAME="python-note Coverage Results" MODIFIED="1544185013940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/python_note$01.coverage" NAME="01 Coverage Results" MODIFIED="1544240419556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/异常处理" />
+    <SUITE FILE_PATH="coverage/python_note$write.coverage" NAME="write Coverage Results" MODIFIED="1545115517606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/文件操作" />
+    <SUITE FILE_PATH="coverage/python_note$_os.coverage" NAME="常用模块-os操作系统相关 Coverage Results" MODIFIED="1544504258662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/常用模块" />
+    <SUITE FILE_PATH="coverage/python_note$1.coverage" NAME="测试1 Coverage Results" MODIFIED="1544189787113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包" />
+    <SUITE FILE_PATH="coverage/python_note$pickle.coverage" NAME="pickle操作 Coverage Results" MODIFIED="1545116656277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.高级语法-包/文件操作" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -53,42 +54,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.高级语法-包/模块的使用和定义.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="142">
-                <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.高级语法-包/p02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.高级语法-包/测试1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cemo/o.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-LOG日志.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -129,6 +96,30 @@
         <option value="$PROJECT_DIR$/cemo/o.py" />
         <option value="$PROJECT_DIR$/3.高级语法-包/测试1.py" />
         <option value="$PROJECT_DIR$/3.高级语法-包/模块的使用和定义.md" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/异常处理.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/异常处理/01.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/异常处理/异常处理.md" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-time时间.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-timeit时间测量工具.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-datetime时间运算.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-os操作系统相关.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-shutil文件操作.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-zip归档和压缩.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-shutil文件操作和压缩与归档.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-zip压缩包.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-random随机数.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/文件操作/持久化-文件操作.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/文件操作/文件.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/文件操作/持久化-文件操作.md" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/文件操作/with.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/文件操作/t01.txt" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/文件操作/write.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/文件操作/seek.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/文件操作/pickle.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/文件操作/pickle操作.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/文件操作/shelve操作.py" />
+        <option value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-LOG日志.py" />
       </list>
     </option>
   </component>
@@ -142,6 +133,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,13 +149,13 @@
             <path>
               <item name="python-note" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-note" type="462c0819:PsiDirectoryNode" />
-              <item name="cemo" type="462c0819:PsiDirectoryNode" />
+              <item name="3.高级语法-包" type="462c0819:PsiDirectoryNode" />
+              <item name="常用模块" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,6 +168,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\编程笔记\python\python-note\3.高级语法-包\文件操作" />
+      <recent name="E:\编程笔记\python\python-note\3.高级语法-包\异常处理" />
+      <recent name="E:\编程笔记\python\python-note\3.高级语法-包\模块的使用和定义" />
       <recent name="E:\编程笔记\python\python-note" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -194,7 +189,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.测试1">
+  <component name="RunManager" selected="Python.shelve操作">
+    <configuration name="常用模块-shutil文件操作和压缩与归档" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.高级语法-包/常用模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-shutil文件操作和压缩与归档.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="抽象类使用" type="PythonConfigurationType" factoryName="Python">
       <module name="python-book" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="测试1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="常用模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-book" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,12 +242,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.高级语法-包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.高级语法-包/常用模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\编程笔记\python\python-note\3.高级语法-包\模块的使用和定义\测试1.py" />
+      <option name="SCRIPT_NAME" value="E:\编程笔记\python\python-note\3.高级语法-包\常用模块\常用模块-calender日历.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,7 +388,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-book" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -379,12 +396,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.高级语法-包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.高级语法-包/文件操作" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\编程笔记\python\python-note\3.高级语法-包\模块的使用和定义\p01.py" />
+      <option name="SCRIPT_NAME" value="E:\编程笔记\python\python-note\3.高级语法-包\文件操作\pickle操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,7 +410,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ces02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pickle操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-book" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -401,12 +418,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.高级语法-包" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.高级语法-包/文件操作" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\编程笔记\python\python-note\3.高级语法-包\模块的使用和定义\p02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.高级语法-包/文件操作/pickle操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -437,18 +454,87 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="seek" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.高级语法-包/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.高级语法-包/文件操作/seek.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shelve操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.高级语法-包/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.高级语法-包/文件操作/shelve操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.高级语法-包/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.高级语法-包/文件操作/write.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.python-note" />
       <item itemvalue="Python.抽象类使用" />
-      <item itemvalue="Python.ces02" />
-      <item itemvalue="Python.a" />
-      <item itemvalue="Python.测试1" />
+      <item itemvalue="Python.常用模块-shutil文件操作和压缩与归档" />
+      <item itemvalue="Python.seek" />
+      <item itemvalue="Python.write" />
+      <item itemvalue="Python.pickle" />
+      <item itemvalue="Python.shelve操作" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.测试1" />
-        <item itemvalue="Python.ces02" />
-        <item itemvalue="Python.a" />
+        <item itemvalue="Python.shelve操作" />
+        <item itemvalue="Python.pickle" />
+        <item itemvalue="Python.seek" />
+        <item itemvalue="Python.write" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +550,11 @@
       <updated>1538301719707</updated>
       <workItem from="1544154687606" duration="2295000" />
       <workItem from="1544178112847" duration="8511000" />
-      <workItem from="1544234462981" duration="178000" />
+      <workItem from="1544234462981" duration="10248000" />
+      <workItem from="1544323904131" duration="8178000" />
+      <workItem from="1544497368000" duration="11527000" />
+      <workItem from="1545104360384" duration="9742000" />
+      <workItem from="1545197551410" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="关于python基础篇的笔记">
       <created>1538301751512</created>
@@ -494,30 +584,72 @@
       <option name="project" value="LOCAL" />
       <updated>1544156659895</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="关于python基础篇的笔记">
+      <created>1544234715342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544234715342</updated>
+    </task>
+    <task id="LOCAL-00006" summary="关于python基础篇的笔记">
+      <created>1544234870042</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544234870043</updated>
+    </task>
+    <task id="LOCAL-00007" summary="关于python基础篇的笔记">
+      <created>1544240469788</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544240469788</updated>
+    </task>
+    <task id="LOCAL-00008" summary="关于python基础篇的笔记">
+      <created>1544240554650</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544240554650</updated>
+    </task>
+    <task id="LOCAL-00009" summary="关于python基础篇的笔记">
+      <created>1545112442970</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1545112442971</updated>
+    </task>
+    <task id="LOCAL-00010" summary="关于python基础篇的笔记">
+      <created>1545197613369</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1545197613369</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10984000" />
+    <option name="totallyTimeSpent" value="51245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2713348" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27680525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28148958" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40174672" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989059" weight="0.30668128" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40087622" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32968238" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010941" side_tool="true" weight="0.28148958" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -632,20 +764,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/a.py" />
-    <entry file="file://$PROJECT_DIR$/3.高级语法-包/p01.py">
+    <entry file="file://$PROJECT_DIR$/a/asd.py" />
+    <entry file="file://$PROJECT_DIR$/a/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/模块的使用和定义/p02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="66">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a/asd.py" />
-    <entry file="file://$PROJECT_DIR$/a/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/3.高级语法-包/模块的使用和定义.md">
+    <entry file="file://$PROJECT_DIR$/cemo/o.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/模块的使用和定义/测试1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/模块的使用和定义/模块的使用和定义.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="142">
-            <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+          <first_editor relative-caret-position="252">
+            <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
@@ -656,26 +802,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.高级语法-包/p02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/异常处理/异常处理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.高级语法-包/测试1.py">
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/模块的使用和定义/p01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cemo/o.py">
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/异常处理/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-calender日历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-time时间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-886">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-timeit时间测量工具.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#28#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-datetime时间运算.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="85" column="53" lean-forward="true" selection-start-line="85" selection-start-column="53" selection-end-line="85" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-os操作系统相关.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-shutil文件操作和压缩与归档.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-zip压缩包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-random随机数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/文件操作/文件.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/文件操作/持久化-文件操作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="242">
+            <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="56" column="15" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/文件操作/with.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/文件操作/write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/文件操作/seek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/文件操作/t01.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/文件操作/shelve操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/文件操作/pickle操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.高级语法-包/常用模块/常用模块-LOG日志.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
